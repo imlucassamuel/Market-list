@@ -2,12 +2,7 @@
   <p>Onidata-project</p>
 </h1>
 
-<p align="center">
-  Projeto MoveIT - desenvolvido na semana Next Level Week
-</p>
-
 <br>
-
 ## 🔥 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
